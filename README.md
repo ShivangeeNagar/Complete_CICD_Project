@@ -3,13 +3,21 @@ This is a Complete CICD Devops project where I have successfully deployed Spring
 Components of my project-
 
 Source Code - GitHub
+
 CI Pipeline - using Jenkins ( via Declarative JenkinsFile )
+
 Pipeline triggers using Webhooks - my git repo
+
 Jenkins is running on my AWS EC2 instance
+
 Simple SpringBoot Java application build using maven
+
 SonarQube - for static code analysis - integrated with jenkins using tokens and credentials
+
 Final Docker Image of the application pushed to the Docker Hub (https://hub.docker.com/repository/docker/shivangeenagar/ultimate-cicd/tags?page=1&ordering=last_updated)
+
 Jenkinsfile has the scripts that updates docker images inside deployment.yml files inside the springBoot manifest repo
+
 Application is deployed via the updated final image on kubernetes cluster using argo CD
 
 Project Structure :
