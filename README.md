@@ -1,6 +1,6 @@
-This is a Complete CICD Devops project where I have successfully deployed SpringBoot Java application,  used Jenkins for to design the continous integration pipeline and argo CD for the CD pipline
+This is a Complete CICD Devops project where I have successfully deployed SpringBoot Java application,  using Jenkins to design the continous integration pipeline and argo CD for CD process.
 
-Components of my project-
+These are the important Components of my project-
 
 Source Code - GitHub
 
