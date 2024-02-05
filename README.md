@@ -18,7 +18,7 @@ These are the important Components of my project-
 
 8) Jenkinsfile has the scripts that updates docker images inside deployment.yml files inside the springBoot manifest repo
 
-Application is deployed via the updated final image on kubernetes cluster using argo CD
+9) Application is deployed via the updated final image on kubernetes cluster using argo CD
 
 Project Structure :
 
